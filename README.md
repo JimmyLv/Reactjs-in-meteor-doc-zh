@@ -1,10 +1,18 @@
-# react-packages
+# Reactjs in Meteor
 
-Meteor packages for a great React developer experience
+[中文文档]()
 
-[Read the guide.](http://react-in-meteor.readthedocs.org/en/latest/)
+[英文文档](http://react-in-meteor.readthedocs.org/en/latest/)
 
-### Running the docs site locally
+## How to run doc site locally
+
+### zh: Running the docs site use `gitbook`
+
+1. Install [gitbook](https://www.gitbook.com): `npm install gitbook -g`
+2. Run `gitbook serve` from the root of the repository
+
+### en: Running the docs site use `mkdocs`
 
 1. Install `mkdocs` with `pip`
 2. Run `mkdocs serve` from the root of the repository
+
