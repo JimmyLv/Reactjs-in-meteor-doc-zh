@@ -1,6 +1,6 @@
 # Reactjs in Meteor
 
-[中文文档]()
+[中文文档](http://jimmylv.gitbooks.io/reactjs-in-meteor-doc-zh/content/)
 
 [英文文档](http://react-in-meteor.readthedocs.org/en/latest/)
 
