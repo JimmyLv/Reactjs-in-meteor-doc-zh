@@ -13,6 +13,6 @@
 
 ### en: Running the docs site use `mkdocs`
 
-1. Install `mkdocs` with `pip`
+1. Install [mkdocs](http://www.mkdocs.org/): `pip install mkdocs`
 2. Run `mkdocs serve` from the root of the repository
 
